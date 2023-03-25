@@ -11,7 +11,7 @@ make distclean
 --enable-rubyinterp=dynamic \
 --enable-luainterp=dynamic \
 --enable-python3interp \
---with-python3-config-dir=/usr/lib/python3.9 \
+--with-python3-config-dir=/usr/lib/python3.10/config-3.10-x86_64-linux-gnu \
 --with-python3-command=python3 \
 --with-x \
 --disable-netbeans \
